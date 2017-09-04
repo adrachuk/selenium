@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object test example">
+    <parameter name="appURL" value="http://book.theautomatedtester.co.uk/"/>
+    <test name="sample test">
+        <classes>
+            <class name="BasePageTest"/>
+        </classes>
+    </test>
+</suite>

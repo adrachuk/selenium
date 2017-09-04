@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="user_db@bp-mobile.ddns.net" uuid="77427f7d-bcde-4210-994a-516e2b8d1cc4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://bp-mobile.ddns.net:54322/user_db</jdbc-url>
+    </data-source>
+  </component>
+</project>
